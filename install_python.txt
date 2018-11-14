@@ -1,4 +1,4 @@
 1、下载并安装python环境 直接安装anaconda https://www.anaconda.com/download/
-2、装好python环境后，安装pychram  https://www.jetbrains.com/pycharm/
+2、装好python环境后，安装pychram  https://www.jetbrains.com/pycharm/  在安装pychram是不用选择安装jre~
 3、安装pychram后需要破解  https://blog.csdn.net/u014044812/article/details/78727496 其中的步骤三很实用
 4、之后就可以通过pychram IDE使用python进行各种开发~，期待……
