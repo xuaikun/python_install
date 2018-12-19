@@ -5,3 +5,4 @@
 3、安装pychram后需要破解  https://blog.csdn.net/yanjiangdi/article/details/81543848?utm_source=blogxgwz8 来这下载补丁
 https://blog.csdn.net/u014044812/article/details/78727496 其中的步骤三很实用
 4、之后就可以通过pychram IDE使用python进行各种开发~，期待……
+5、关于pychram中python环境的选择，应该选择自己安装的python环境，而不是用软件自带的虚拟python环境~
