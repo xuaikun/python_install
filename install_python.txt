@@ -9,3 +9,7 @@ https://blog.csdn.net/u014044812/article/details/78727496 其中的步骤三很�
 5、关于pychram中python环境的选择，应该选择自己安装的python环境，而不是用软件自带的虚拟python环境~
 
 6、pip的安装 https://blog.csdn.net/Mr_Cat123/article/details/79221012
+
+7、import tensorflow是出现错误的解决方法: https://stackoverflow.com/questions/54665842/when-importing-tensorflow-i-get-the-following-error-no-module-named-numpy-cor
+
+8、import sklearn时出现错误的解决方法： https://stackoverflow.com/questions/41332981/error-when-trying-to-import-sklearn-modules-importerror-dll-load-failed-the
