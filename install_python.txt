@@ -1,3 +1,4 @@
+备注：如果没有特殊要求，直接下载python3版本的
 1、下载并安装python环境 直接安装anaconda https://www.anaconda.com/download/ 
 注意：# Anaconda 尽量不改变安装路径，对于后面界面提示修改环境变量，尽量把它勾选✔，避免后面得自己去设置环境变量
 
